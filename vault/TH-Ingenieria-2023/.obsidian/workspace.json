@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "147e9abd97270274",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc75c448804b33ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e4b28fb6ac52041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alcance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5172a05bc58841a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65858bc35a415331",
+    "type": "split",
+    "children": [
+      {
+        "id": "38de02689d4da9b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17a7afe793255676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef2b36bccbf6b868",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60e65e2089fbde6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab8913d2d150ac4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdcdaba3345d369d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aec6f01171c2bdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Alcance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5113eb67298beffb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Alcance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0074ee4258af947c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10498a8d8950d033",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Alcance.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6e4b28fb6ac52041",
+  "lastOpenFiles": [
+    "Casos de uso.md",
+    "Diagrama de clases.md",
+    "TakeHome.md",
+    "Alcance.md",
+    "DFD.md",
+    "2023-08-26.md",
+    "Untitled"
+  ]
+}
