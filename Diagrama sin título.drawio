@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T21:16:28.724Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3yt65stOeJnEVDb-w-Kx" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-03T21:17:58.516Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dPMimjRskXr8PjOZlBHQ" version="21.7.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1746" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -954,7 +954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J128u1NHmoMpUITtoW5e" name="Página-3">
-    <mxGraphModel dx="-1332" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-368" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1375,6 +1375,11 @@
             <Array as="points">
               <mxPoint x="2028" y="470" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tRRvZvxLBcNOLq1g1S_Q-17" value="Actualizacion &lt;br&gt;de estado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tRRvZvxLBcNOLq1g1S_Q-15">
+          <mxGeometry x="0.4322" y="-1" relative="1" as="geometry">
+            <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ccu5vNPfFS5WDC1dNhl-107" value="Jugar carta" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
