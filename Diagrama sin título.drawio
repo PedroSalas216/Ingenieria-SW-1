@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T00:32:39.233Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nkc9FwbtdLRlyb88J0db" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-05T01:13:37.891Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5LwEa79dIXyQzGpORWlg" version="21.7.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1746" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1631,9 +1631,6 @@
         </mxCell>
         <mxCell id="tRRvZvxLBcNOLq1g1S_Q-9" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2033" y="594.87" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tRRvZvxLBcNOLq1g1S_Q-16" value="Jugador" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2218" y="690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VfbLgY--pOflfnIxQ6nT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfbLgY--pOflfnIxQ6nT-2" target="_ccu5vNPfFS5WDC1dNhl-75">
           <mxGeometry relative="1" as="geometry" />
