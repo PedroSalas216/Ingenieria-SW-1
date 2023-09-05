@@ -4,10 +4,10 @@
 - Qué cosas entran y no entran en el proyecto 
 - Requerimientos funcionales y no funcionales
 
-## [[DFD]]
-- Diagrama de flujo de datos (maxima granularidad tipo de cartas, accion, panico, defensa, obstaculo)
+## DFD
+- Diagrama de flujo de datos (máxima granularidad tipo de cartas, acción, pánico, defensa, obstáculo)
 
-## [[Diagrama de clases]]
+## Diagrama de clases
 
 ## [[Casos de uso]]
 - Crear partida
