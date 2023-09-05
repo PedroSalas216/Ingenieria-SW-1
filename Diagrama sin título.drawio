@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T00:31:32.333Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NL1IAm3W24kDoy_ujS_r" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-05T00:32:39.233Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nkc9FwbtdLRlyb88J0db" version="21.7.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1746" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -688,7 +688,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T4yaSad41vKxxqJk14D2" name="Página-2">
-    <mxGraphModel dx="-178" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -762,7 +762,7 @@
         <mxCell id="P_bybsf8cnfXPhyeWLuo-19" value="&lt;div&gt;Sala&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1426" y="-1114" width="160" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="P_bybsf8cnfXPhyeWLuo-20" value="&lt;div&gt;SalaID : int&lt;/div&gt;&lt;div&gt;contraseña : String&lt;/div&gt;&lt;div&gt;turno : int&lt;/div&gt;&lt;div&gt;maxJugadores : int&lt;/div&gt;&lt;div&gt;minJugadores : int&lt;/div&gt;&lt;div&gt;estaJugando : Bool&lt;/div&gt;&lt;div&gt;direccionHorario : Bool&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P_bybsf8cnfXPhyeWLuo-19">
+        <mxCell id="P_bybsf8cnfXPhyeWLuo-20" value="&lt;div&gt;SalaID : int&lt;/div&gt;&lt;div&gt;nombre : String&lt;/div&gt;&lt;div&gt;contraseña : String&lt;/div&gt;&lt;div&gt;turno : int&lt;/div&gt;&lt;div&gt;maxJugadores : int&lt;/div&gt;&lt;div&gt;minJugadores : int&lt;/div&gt;&lt;div&gt;estaJugando : Bool&lt;/div&gt;&lt;div&gt;direccionHorario : Bool&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P_bybsf8cnfXPhyeWLuo-19">
           <mxGeometry y="26" width="160" height="124" as="geometry" />
         </mxCell>
         <mxCell id="P_bybsf8cnfXPhyeWLuo-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="P_bybsf8cnfXPhyeWLuo-19">
@@ -984,7 +984,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J128u1NHmoMpUITtoW5e" name="Página-3">
-    <mxGraphModel dx="2464" dy="3629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-7" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1110,8 +1110,8 @@
         <mxCell id="_ccu5vNPfFS5WDC1dNhl-24" value="&lt;u&gt;Partidas&lt;/u&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2248" y="-739" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_ccu5vNPfFS5WDC1dNhl-25" value="Configuracion partida =&lt;br&gt;&amp;nbsp;UserID del host,&lt;br&gt;maximo de jugadores,&lt;br&gt;minimo de jugadores,&lt;br&gt;&amp;nbsp;contraseña.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2273" y="-869" width="150" height="90" as="geometry" />
+        <mxCell id="_ccu5vNPfFS5WDC1dNhl-25" value="Configuracion partida =&lt;br&gt;&amp;nbsp;UserID del host,&lt;br&gt;nombre de la partida&lt;br&gt;maximo de jugadores,&lt;br&gt;minimo de jugadores,&lt;br&gt;&amp;nbsp;contraseña.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2273" y="-874" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ccu5vNPfFS5WDC1dNhl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ccu5vNPfFS5WDC1dNhl-30" target="_ccu5vNPfFS5WDC1dNhl-21">
           <mxGeometry relative="1" as="geometry" />
