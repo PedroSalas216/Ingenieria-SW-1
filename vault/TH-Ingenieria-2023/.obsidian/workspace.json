@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc75c448804b33ee",
+        "id": "ab1a8672454f8886",
         "type": "tabs",
         "children": [
           {
-            "id": "6e4b28fb6ac52041",
+            "id": "2814cbdf945abf79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Alcance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5172a05bc58841a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DFD.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ab8913d2d150ac4e",
@@ -161,13 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e4b28fb6ac52041",
+  "active": "2814cbdf945abf79",
   "lastOpenFiles": [
     "Casos de uso.md",
     "Diagrama de clases.md",
-    "TakeHome.md",
-    "Alcance.md",
     "DFD.md",
+    "Alcance.md",
+    "TakeHome.md",
     "2023-08-26.md",
     "Untitled"
   ]
