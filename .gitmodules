@@ -1,0 +1,3 @@
+[submodule "lab/la-cosa-back"]
+	path = lab/la-cosa-back
+	url = git@github.com:ing-soft-1-swifties/la-cosa-back.git
